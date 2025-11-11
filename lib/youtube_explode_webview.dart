@@ -2,7 +2,6 @@ import 'dart:convert';
 
 import 'package:webview_flutter/webview_flutter.dart';
 import 'package:youtube_explode_dart/js_challenge.dart';
-import 'package:youtube_explode_dart/src/reverse_engineering/challenges/ejs/ejs.dart';
 
 class WebviewEJSSolver extends BaseEJSSolver {
   final WebViewController _controller;

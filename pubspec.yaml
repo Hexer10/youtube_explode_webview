@@ -1,5 +1,5 @@
 name: youtube_explode_webview
-description: "Flutter plugin for youtube_explode_dart, to allow decoding of youtube signatures via a webview."
+description: "Flutter plugin for youtube_explode_dar to allow decoding of youtube signatures via a webview."
 version: 0.0.1
 repository: https://github.com/Hexer10/youtube_explode_webview
 
@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   webview_flutter: ^4.13.0
-  youtube_explode_dart: ^3.0.3
+  youtube_explode_dart: ^3.0.4
 
 dev_dependencies:
   flutter_lints: ^5.0.0
